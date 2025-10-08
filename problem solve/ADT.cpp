@@ -21,9 +21,22 @@ void show(class myArray *p){
         cout<<((*p).ptr[i])<<""<<endl;
     }
 }
+void setval(class myArray *p){
+    int n;
+    for(int i=0;i<(*p).used_size;i++){
+        cout<<"Enter the element",i;
+        cin>>n;
+        (*p).ptr[i]=n;
+
+    }
+}
 int main(){
     class myArray marks;
     createArray(&marks,10,2);
+    cout<<"we are running setval now"<<endl;
+    setval(&marks);
+    cout<<"We are running show now"<<endl;
+    show(&marks);
     show(&marks);
     return 0;
 
