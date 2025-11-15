@@ -7,7 +7,7 @@ int main(){
 
     cout<<"please!! Enter the array element 💕😊"<<endl;
     for(int i =0 ;i < n; i++){
-        cout<<"please!! Enter the arry index"<<i<<endl;
+        cout<<"please!! Enter the arry index...."<<i<<endl;
         cin>>input;
         arr[i]=input;
     }
