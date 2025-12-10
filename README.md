@@ -32,7 +32,7 @@ How to Use
 
 Clone the repository:
 
-git clone https://github.com/your-username/problem-solving.git
+git clone (https://github.com/TONMOY-DEY/problem-solving-)
 
 
 Navigate to the folder of your choice:
