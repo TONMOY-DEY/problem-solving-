@@ -6,7 +6,7 @@ struct patient {
     int id;
     string name;
     int age;
-    string gender;
+    string gender;h
     string condition;
     string doctor;
     int room;
