@@ -1,7 +1,7 @@
 Problem Solving
 
 
-This repository contains a collection of programming problems and solutions in C++ (or any language you used). It is designed to help beginners and intermediate programmers improve their problem-solving skills.
+📢This repository contains a collection of programming problems and solutions in C++ (or any language you used). It is designed to help beginners and intermediate programmers improve their problem-solving skills.
 
 Folder Structure
 Problem Solving/
@@ -32,7 +32,7 @@ How to Use
 
 Clone the repository:
 
-git clone (https://github.com/TONMOY-DEY/problem-solving-)
+😊git clone (https://github.com/TONMOY-DEY/problem-solving-)
 
 
 Navigate to the folder of your choice:
