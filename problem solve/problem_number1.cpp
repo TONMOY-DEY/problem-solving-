@@ -7,7 +7,7 @@ int main(){
     int Smalest_value=arr[0];
 
     for(int i=0;i<3;i++){
-        if(arr[i]>Largest_value){;
+        if(arr[i]>Largest_value){
          Largest_value=arr[i];
          cout<<"Largest value:"<<arr[i]<<endl;
        
