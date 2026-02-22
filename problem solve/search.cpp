@@ -8,14 +8,14 @@ int main(){
     cin>>n;
 
     for(int i=0;i<10;i++){
-        if(mimo[i]==n){
-            cout<<"powa geche:"<<mimo[i]<<endl;
+        if(n==mimo[i]){
+            cout<<"powa geche:"<<mimo[i]<<endl<<"index number:"<<i<<endl;
+            
         }
-
-        else{
+        if(n==!mimo[i]){
             cout<<"powa jai nai"<<endl;
         }
-        break;
+        
     }
 
 
