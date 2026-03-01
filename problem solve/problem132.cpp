@@ -31,3 +31,14 @@ int main(){
         cout<<arr[i]<<" ";
 }
 }
+// SELECTION-SORT(A, n)
+// 1.  for i ← 0 to n - 2 do
+// 2.      min_index ← i
+// 3.      for j ← i + 1 to n - 1 do
+// 4.          if A[j] < A[min_index] then
+// 5.              min_index ← j
+// 6.          end if
+// 7.      end for
+// 8.      swap A[i] and A[min_index]
+// 9.  end for
+// END
