@@ -32,4 +32,16 @@ int main(){
         cout<<arr[i]<<"  "<<endl;
     }
 }
+/*
+BUBBLE-SORT(A, n)
+1.  for step ← 0 to n - 2 do
+2.      for i ← 0 to n - step - 2 do
+3.          if A[i] > A[i + 1] then
+4.              temp ← A[i]
+5.              A[i] ← A[i + 1]
+6.              A[i + 1] ← temp
+7.          end if
+8.      end for
+9.  end for
+*/
 
