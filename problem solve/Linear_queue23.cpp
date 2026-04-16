@@ -10,13 +10,16 @@ void enqueue(int value){
     if(rear==size-1){
         cout<<"Queue is overflow";
     }
-    else if(front==-1){
+    else 
+    {
+        if(front==-1){
         front =0;
         rear++;
         queue[rear]=value;
         cout<<"Insertaed value:"<<value<<endl;
 
     }
+}
 }
 
 void dequeue(){
