@@ -79,4 +79,4 @@ Solutions are meant for learning purposes
 
 Always try to solve the problem yourself before looking at the solution
 
-You can modify the code to practice or optimize
+You can modify the code to practice or optimize.
